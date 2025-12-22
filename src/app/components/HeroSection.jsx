@@ -59,11 +59,11 @@ const HeroSection = () => {
         >
           <div>
             <Image
-              src="/images/profile.jpg"
+              src="/images/sahil_m.png"
               alt="hero image"
-              className="rounded-full"
-              width={300}
-              height={300}
+              className="rounded-[2rem]"
+              width={275}
+              height={275}
             />
           </div>
         </motion.div>
