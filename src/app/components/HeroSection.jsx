@@ -40,7 +40,7 @@ const HeroSection = () => {
               Let’s Talk
             </Link>
             <Link
-              href="/cv/Sahil-Malik-CV.pdf"
+              href="/cv/Sahil_Malik_CV.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
@@ -59,7 +59,7 @@ const HeroSection = () => {
         >
           <div>
             <Image
-              src="/images/sahil_m.png"
+              src="/images/sahil_m.jpg"
               alt="hero image"
               className="rounded-[2rem]"
               width={275}

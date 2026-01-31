@@ -61,6 +61,7 @@ const skills = [
   "PostgreSQL",
   "Git",
   "Amazon Web Services (AWS)",
+  "CI/CD Pipelines",
   "Twilio",
 ];
 
@@ -129,16 +130,6 @@ const education = [
 const projectsData = [
   {
     id: 1,
-    title: "CureEats",
-    description:
-      "CureEats is a nutrition-focused platform that helps users access personalized diet plans and healthy meal recommendations. The platform allows clients to track their progress, consult with dieticians, and receive tailored guidance to meet their health goals. With an intuitive interface and data-driven insights, CureEats makes healthy eating simple and achievable for everyone.",
-    image: "/images/projects/cureeats-collage.png",
-    tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "https://thecureeats.com/",
-  },
-  {
-    id: 2,
     title: "LaFetch",
     description:
       "LaFetch is a luxury e-commerce platform that brings exclusive, high-end products to your doorstep. Its unique quick commerce model sets it apart - with certain outfits and essentials delivered in as little as 2 hours, combining the elegance of luxury shopping with the speed of instant delivery. It’s designed to give customers a premium shopping experience without the wait.",
@@ -148,7 +139,7 @@ const projectsData = [
     previewUrl: "https://www.la-fetch.com/",
   },
   {
-    id: 3,
+    id: 2,
     title: "Invozio",
     description:
       "Invozio is a user-friendly online invoicing platform that helps business owners streamline their billing process. Customers can easily register, manage clients, and generate professional invoices for employees or freelancers. The platform simplifies financial management, saving time and reducing errors, while providing a seamless digital experience for businesses of all sizes.",
@@ -156,6 +147,16 @@ const projectsData = [
     tag: ["All", "Web"],
     gitUrl: "https://github.com/sahil-malik04/invozio-web",
     previewUrl: "https://invozio.com/",
+  },
+  {
+    id: 3,
+    title: "CureEats",
+    description:
+      "CureEats is a nutrition-focused platform that helps users access personalized diet plans and healthy meal recommendations. The platform allows clients to track their progress, consult with dieticians, and receive tailored guidance to meet their health goals. With an intuitive interface and data-driven insights, CureEats makes healthy eating simple and achievable for everyone.",
+    image: "/images/projects/cureeats-collage.png",
+    tag: ["All", "Web"],
+    gitUrl: "/",
+    previewUrl: "https://thecureeats.com/",
   },
 ];
 
