@@ -4,14 +4,19 @@ import LinkedinIcon from "../../../public/linkedin-icon.svg";
 const about =
   "Hi, I’m Sahil Malik - a Full-Stack Developer passionate about transforming ideas into smooth and engaging digital experiences. Over the past 3.5+ years, I’ve built web and mobile applications that are not only reliable but also user-friendly and scalable. I love tackling challenging problems, improving performance, and exploring new technologies to craft innovative solutions. Teamwork and continuous learning motivate me, and I take pride in creating products that truly make a difference.";
 
+const bio =
+  "Software Engineer II | Full-Stack Engineer | Problem Solver | Building Scalable Systems with Real-World Impact";
+
 const profileTitle = [
   "Sahil Malik",
   1000,
-  "Full-Stack Developer",
+  "Software Engineer",
   1000,
-  "MERN Stack Specialist",
+  "Problem Solver",
   1000,
-  "Mobile App Developer",
+  "Designing Scalable Systems",
+  1000,
+  "Web & Mobile Platforms",
   1000,
 ];
 
@@ -145,7 +150,7 @@ const projectsData = [
       "Invozio is a user-friendly online invoicing platform that helps business owners streamline their billing process. Customers can easily register, manage clients, and generate professional invoices for employees or freelancers. The platform simplifies financial management, saving time and reducing errors, while providing a seamless digital experience for businesses of all sizes.",
     image: "/images/projects/invozio-collage.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/sahil-malik04/invozio-web",
+    gitUrl: null,
     previewUrl: "https://invozio.com/",
   },
   {
@@ -155,7 +160,7 @@ const projectsData = [
       "CureEats is a nutrition-focused platform that helps users access personalized diet plans and healthy meal recommendations. The platform allows clients to track their progress, consult with dieticians, and receive tailored guidance to meet their health goals. With an intuitive interface and data-driven insights, CureEats makes healthy eating simple and achievable for everyone.",
     image: "/images/projects/cureeats-collage.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: null,
     previewUrl: "https://thecureeats.com/",
   },
 ];
@@ -199,6 +204,7 @@ export {
   skills,
   certifications,
   about,
+  bio,
   education,
   projectsData,
   social,

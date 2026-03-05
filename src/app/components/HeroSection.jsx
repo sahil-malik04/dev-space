@@ -4,7 +4,7 @@ import Image from "next/image";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 import Link from "next/link";
-import { profileTitle } from "../utils/constants";
+import { bio, profileTitle } from "../utils/constants";
 
 const HeroSection = () => {
   return (
@@ -29,8 +29,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-md mb-6 lg:text-md">
-            Software Engineer II | Full-Stack | Leading Code, Obsessed with
-            Impact
+            {bio}
           </p>
           <div>
             <Link
@@ -59,7 +58,7 @@ const HeroSection = () => {
         >
           <div>
             <Image
-              src="/images/sahil_m.jpg"
+              src="/images/sahil_m.png"
               alt="hero image"
               className="rounded-[2rem]"
               width={275}
