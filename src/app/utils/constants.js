@@ -2,7 +2,7 @@ import GithubIcon from "../../../public/github-icon.svg";
 import LinkedinIcon from "../../../public/linkedin-icon.svg";
 
 const about =
-  "Hi, I’m Sahil Malik - a Full-Stack Developer passionate about transforming ideas into smooth and engaging digital experiences. Over the past 3.5+ years, I’ve built web and mobile applications that are not only reliable but also user-friendly and scalable. I love tackling challenging problems, improving performance, and exploring new technologies to craft innovative solutions. Teamwork and continuous learning motivate me, and I take pride in creating products that truly make a difference.";
+  "I believe engineering is about solving problems, not just writing code. Over the last 3.7+ years, I’ve worked on building web and mobile applications while trying to see the bigger picture - understanding the problem first, thinking in systems, and designing solutions that are scalable and reliable. I enjoy turning ideas into real products. Many times it starts with a simple conversation over coffee and ends with working software. My approach is simple: understand the problem, design the system, and then choose the right technology to make it happen. I’m naturally curious and always interested in learning better ways to build systems and products. Also, there’s a good chance you’ll see me carrying my laptop around most of the time - because good ideas don’t always come when you’re sitting at your desk.";
 
 const bio =
   "Software Engineer II | Full-Stack Engineer | Problem Solver | Building Scalable Systems with Real-World Impact";
@@ -23,7 +23,7 @@ const profileTitle = [
 const achievementsList = [
   {
     metric: "Years of Experience",
-    value: "3.5",
+    value: "3.7",
     postfix: "+",
   },
   {
@@ -47,11 +47,11 @@ const skills = [
   "System Design",
   "Data Structures",
   "Javascript",
-  "C",
   "C++",
   "Node.js",
   "Express.js",
-  "REST APIs",
+  "REST",
+  "GraphQL",
   "TypeScript",
   "React.js",
   "Redux",
