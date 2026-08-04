@@ -45,29 +45,41 @@ const achievementsList = [
 
 const skills = [
   "System Design",
-  "Data Structures",
-  "Javascript",
+  "Data Structures & Algorithms",
   "C++",
+  "JavaScript",
+
+  "TypeScript",
   "Node.js",
   "Express.js",
-  "REST",
+  "REST APIs",
+
   "GraphQL",
-  "TypeScript",
+  "Microservices",
+  "Message Queues",
+  "Redis",
+
   "React.js",
   "Redux",
   "React Native",
   "Next.js",
-  "Vue.js",
-  "Tailwind CSS",
+
   "HTML",
   "CSS",
   "MongoDB",
-  "MySQL",
+
+  "SQL",
   "PostgreSQL",
   "Git",
+  "Docker",
+
   "Amazon Web Services (AWS)",
   "CI/CD Pipelines",
   "Twilio",
+  "Leadership",
+
+  "Problem Solving",
+  "Public Speaking",
 ];
 
 const certifications = [
