@@ -24,7 +24,7 @@ const achievementsList = [
   {
     metric: "Years of Experience",
     value: "4",
-    postfix: "",
+    postfix: "+",
   },
   {
     metric: "Projects Delivered",
