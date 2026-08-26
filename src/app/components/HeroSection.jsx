@@ -58,7 +58,7 @@ const HeroSection = () => {
         >
           <div>
             <Image
-              src="/images/sahil_m.png"
+              src="/images/sm_profile_transparent.png"
               alt="hero image"
               className="rounded-[2rem]"
               width={275}
